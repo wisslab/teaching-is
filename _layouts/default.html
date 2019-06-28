@@ -51,7 +51,11 @@
           {% if site.github.is_project_page %}
             <p class="repo-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">Wisslab</a>.</p>
           {% endif %}
-          <p><a href="{{ site.github.repository_url }}/blob/master{{ page.url | replace: ".html", ".md" | replace: "/$", "/README.md" }}">Comment on or edit this page</a></p>
+          {% if page.url contains ".html" %}
+             <p><a href="{{ site.github.repository_url }}/blob/master{{ page.url | replace: ".html", ".md" }}">Comment on or edit this page</a></p>
+          {% else %}
+             <p><a href="{{ site.github.repository_url }}/blob/master{{ page.url }}README.md">Comment on or edit this page</a></p>
+          {% endif %}
           <p><a href="https://wisslab.github.io/howto-contribute.html">How to contribute.</a></p>
         </aside>
       </div>
