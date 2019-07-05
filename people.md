@@ -18,6 +18,7 @@ The following people talked to Kai during his journey:
 - Maggie Melo, University of North Carolina at Chapel Hill
 - Rob Capra, University of North Carolina at Chapel Hill
 - Gary Marchionini, University of North Carolina at Chapel Hill
+- Scott Peterson, University of California Berkely Library
 
 
 *If you are missing and want to be mentioned here, or if you don't want to be mentioned here anymore, please send Kai a message.*
