@@ -20,6 +20,9 @@ The following people talked to Kai during his journey:
 - Rob Capra, University of North Carolina at Chapel Hill
 - Gary Marchionini, University of North Carolina at Chapel Hill
 - Scott Peterson, University of California Berkely Library
+- Jason Christopher, Research IT, University of California Berkely Library
+- Christopher R. Hoffman, Research IT, University of California Berkely Library
+- Amy Neeser, Research IT, University of California Berkely Library
 - Linnea Shieh, Data & Collections, Stanford University Library
 - Zac Painter, Research & Teaching Support, Stanford University Library
 - Alexandra Krogman, Digital Services & Projects, Stanford University Library
